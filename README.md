@@ -36,4 +36,4 @@
 
 ### 📫 Contact
 
-- 📨  hectornovoadita2000@gmail.com
+- 💼  Open to networking — reach me through issues / PRs on my projects
