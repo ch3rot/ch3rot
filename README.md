@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Héctor</h1>
+<h1 align="center">Hola, soy Cherot</h1>
 <h3 align="center">Fullstack & DevOps Engineer</h3>
 
 <p align="center">
